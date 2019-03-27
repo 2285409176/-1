@@ -1,0 +1,22 @@
+h2{
+	color: red;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 40px;	
+}
+p{
+	font-size: 12px;
+}
+p img{
+	vertical-align: middle;
+}
+.one{
+	color: red;
+}
+.two{
+	color: black;
+}
+
+
+
+

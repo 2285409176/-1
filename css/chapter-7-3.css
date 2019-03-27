@@ -1,0 +1,8 @@
+
+[href="#"]{
+	text-decoration: none;
+}
+[href="#"]:hover{
+	text-decoration: underline;
+	color: red;
+}
